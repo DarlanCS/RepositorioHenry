@@ -1,2 +1,2 @@
 # RepositorioHenry
-Homework Modulo 2
+Homework Prepcourse Clase 2
